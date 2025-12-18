@@ -1,12 +1,3 @@
-📄 STEP: Create installation.md
-
-From your project root:
-
-nano docs/installation.md
-
-
-Now paste everything below ⬇️
-
 # Linux Monitoring Stack — Installation Guide
 
 ## Overview
