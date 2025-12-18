@@ -59,6 +59,14 @@ After installation, verify each component:
 
 All Prometheus targets should report **UP**.
 
+## Accessing the Services
+
+The service URLs listed in this repository use `localhost` and are intended to be accessed **only from the system where the monitoring stack is installed**.
+
+These services are not exposed publicly and will not be reachable when clicked directly from GitHub or external systems.
+
+This is intentional and reflects standard security practices for internal monitoring tools.
+
 ---
 
 ## Port Reference
